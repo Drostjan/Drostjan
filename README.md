@@ -10,6 +10,7 @@ investing in new technologies and systems programming.
 ．Bash<br />
 ．Php<br />
 ．JavaScript<br />
+．Python<br />
 
 ✨ I’m currently working on ... <br />
 ．My discord bot (ARKNET).<br />
@@ -17,7 +18,9 @@ investing in new technologies and systems programming.
  <br />
 ✨ I’m currently learning ... <br />
 ．Ruby)<br />
-．Python)<br />
+．Rust)<br />
+．C)<br />
+．Go)<br />
   <br />
 ✨ How to reach me ...
 Twitter: https://twitter.com/ElDrostMC  <br />
