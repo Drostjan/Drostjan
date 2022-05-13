@@ -3,13 +3,11 @@ Hi everyone,
 ✨ I'm Drostjan or better known as Drost. I'm from Peru but I currently live in Spain, I'm student and I am very excited to learn programming languages, 
 investing in new technologies and systems programming.
 <br />
-✨ Programming languages I know ... <br />
+✨ Programming languages I know and learning more ... <br />
 ．C#<br />
-．C++<br />
 ．Java<br />
 ．Bash<br />
 ．Php<br />
-．JavaScript<br />
 ．Python<br />
 
 ✨ I’m currently working on ... <br />
@@ -17,10 +15,10 @@ investing in new technologies and systems programming.
 ．A encrypt library <br />
  <br />
 ✨ I’m currently learning ... <br />
-．Ruby)<br />
-．Rust)<br />
-．C)<br />
-．Go)<br />
+．C++<br />
+．Rust <br />
+．Go <br />
+．JavaScript<br />
   <br />
 ✨ How to reach me ...
 Twitter: https://twitter.com/ElDrostMC  <br />
