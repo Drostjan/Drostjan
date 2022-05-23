@@ -11,8 +11,7 @@ investing in new technologies and systems programming.
 ．Python<br />
 
 ✨ I’m currently working on ... <br />
-．My discord bot (ARKNET).<br />
-．A encrypt library <br />
+．Rust interactive shell.
  <br />
 ✨ I’m currently learning ... <br />
 ．C++<br />
