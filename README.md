@@ -11,7 +11,7 @@ investing in new technologies and systems programming.
 ．Python<br />
 
 ✨ I’m currently working on ... <br />
-．Rust interactive shell.
+．Rust interactive shell. <br />
  <br />
 ✨ I’m currently learning ... <br />
 ．C++<br />
