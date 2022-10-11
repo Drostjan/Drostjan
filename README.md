@@ -9,15 +9,18 @@ investing in new technologies and systems programming.
 ．Bash<br />
 ．Php<br />
 ．Python<br />
+．C++<br />
+．Rust <br />
+．JavaScript<br />
 
 ✨ I’m currently working on ... <br />
 ．Rust interactive shell. <br />
  <br />
 ✨ I’m currently learning ... <br />
-．C++<br />
-．Rust <br />
+．C <br />
+．Asm<br />
 ．Go <br />
-．JavaScript<br />
+．Ruby<br />
   <br />
 ✨ How to reach me ...
 Twitter: https://twitter.com/ElDrostMC  <br />
