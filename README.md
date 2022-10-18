@@ -9,7 +9,7 @@ investing in new technologies and systems programming.
 ．Bash<br />
 ．Php<br />
 ．Python<br />
-．C++<br />
+．C<br />
 ．Rust <br />
 ．JavaScript<br />
 
@@ -17,7 +17,7 @@ investing in new technologies and systems programming.
 ．Rust interactive shell. <br />
  <br />
 ✨ I’m currently learning ... <br />
-．C <br />
+．C++ <br />
 ．Asm<br />
 ．Go <br />
 ．Ruby<br />
