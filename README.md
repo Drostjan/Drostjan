@@ -23,7 +23,7 @@ investing in new technologies and systems programming.
 ．Ruby<br />
   <br />
 ✨ How to reach me ...
-Twitter: https://twitter.com/ElDrostMC  <br />
+Twitter: https://twitter.com/Androsales03  <br />
 
 ✨ My hobbies ...<br />
 ．I like to watch movies, series and anime.  <br />
