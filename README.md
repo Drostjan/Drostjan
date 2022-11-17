@@ -6,10 +6,8 @@ investing in new technologies and systems programming.
 ✨ Programming languages I know and learning more ... <br />
 ．C#<br />
 ．Java<br />
-．Bash<br />
 ．Php<br />
 ．Python<br />
-．C<br />
 ．Rust <br />
 ．JavaScript<br />
 
@@ -17,10 +15,8 @@ investing in new technologies and systems programming.
 ．Rust interactive shell. <br />
  <br />
 ✨ I’m currently learning ... <br />
-．C++ <br />
+．C <br />
 ．Asm<br />
-．Go <br />
-．Ruby<br />
   <br />
 ✨ How to reach me ...
 Twitter: https://twitter.com/Androsales03  <br />
