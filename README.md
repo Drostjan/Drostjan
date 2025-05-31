@@ -1,27 +1,17 @@
-Hi everyone,
+✨ ¡Hola a todos!
+Soy Drostjan, Soy informático especializado en ciberseguridad y programación, y estoy muy entusiasmado por seguir aprendiendo, explorando nuevas tecnologías y profundizando en el mundo de la programación de sistemas.
 
-✨ I'm Drostjan or better known as Drost. I'm from Peru but I currently live in Spain, I'm student and I am very excited to learn programming languages, 
-investing in new technologies and systems programming.
 <br />
-✨ Programming languages I know and learning more ... <br />
-．C#<br />
-．Java<br />
-．Php<br />
-．Python<br />
-．Rust <br />
-．JavaScript<br />
+✨ Lenguajes de programación que conozco y en los que sigo aprendiendo:
+• C++<br />
+• JavaScript<br />
+• TypeScript<br />
+• Java<br />
+• PHP<br />
+• Python<br />
+• Rust <br />
 
-✨ I’m currently working on ... <br />
-．Rust interactive shell. <br />
- <br />
-✨ I’m currently learning ... <br />
-．C <br />
-．Asm<br />
-  <br />
-✨ How to reach me ...
-Twitter: https://twitter.com/Androsales03  <br />
-
-✨ My hobbies ...<br />
-．I like to watch movies, series and anime.  <br />
-．I like to read a science fiction books.  <br />
-．I like to learn programming languages.)  <br />
+✨ Mis hobbies:
+• Ver películas, series y anime<br />
+• Leer libros de ciencia ficción<br />
+• Estudiar nuevos lenguajes de programación y técnicas de ciberseguridad<br />
